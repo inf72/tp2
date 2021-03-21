@@ -5,6 +5,7 @@ import java.text.SimpleDateFormat;
 import java.util.Scanner;
 
 public class Main {
+
     public static String nama;
     public static String alamat = "";
     public static String tgl;
