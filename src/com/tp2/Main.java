@@ -5,7 +5,6 @@ import java.text.SimpleDateFormat;
 import java.util.Scanner;
 
 public class Main {
-
     public static String nama;
     public static String alamat = "";
     public static String tgl;
@@ -19,7 +18,6 @@ public class Main {
         inputhp();
         menu();
     }
-
 
 
     public static void inputnama() {
@@ -43,7 +41,6 @@ public class Main {
             }
         }
     }
-
 
 
     public static void inputtanggal() {
@@ -99,7 +96,6 @@ public class Main {
             }
         }
     }
-
 
 
     public static void inputhp() {
@@ -285,7 +281,6 @@ public class Main {
             }
         }
     }
-
 }
 
 
